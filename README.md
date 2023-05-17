@@ -1,4 +1,4 @@
-<img align="center" src="https://tenor.com/view/anime-akira-mad-gif-14551663">
+<img align="center" src="images/anime-akira.gif">
 
 <h1 align="center">
   <a href="https://git.io/typing-svg">
