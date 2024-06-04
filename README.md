@@ -1,9 +1,8 @@
 <p align="center">
-<img src="images/anime-akira.gif">
 </p>
 <h1 align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com/?lines=I'm+Tiouti+Mohamed....;Nice+to+meet+you!&center=true&size=30">
+    <img src="https://readme-typing-svg.herokuapp.com/?lines=Tiouti+Mohamed....;Computer+Systems+And+Networks+Engineer&center=true&size=30">
   </a>
 </h1>
 
